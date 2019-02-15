@@ -1,4 +1,4 @@
-package fr.evades.evades
+package fr.evades.app
 
 import android.os.Bundle
 
